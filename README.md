@@ -9,3 +9,7 @@ http://www.cs.usfca.edu/~wolber/appinventor/locationsensor.html
 https://sites.google.com/a/jcu.edu/cs128fall2012/daily-lessons/9-24
 
 http://appinventor.mit.edu/explore/resources/introduction-software-application-development-app-inventor-and-python.html
+
+http://appinventor.mit.edu/explore/ai2/space-invaders.html
+
+http://www.appinventor.org/book2
