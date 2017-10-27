@@ -13,3 +13,5 @@ http://appinventor.mit.edu/explore/resources/introduction-software-application-d
 http://appinventor.mit.edu/explore/ai2/space-invaders.html
 
 http://www.appinventor.org/book2
+
+http://iot.appinventor.mit.edu
