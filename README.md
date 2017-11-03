@@ -21,3 +21,5 @@ http://iot.appinventor.mit.edu
 http://puravidaapps.com/snippets.php
 
 http://appinventor.mit.edu/explore/tutorialsaf4d.html
+
+https://www.sanderjochems.com/appinventor/extensions
