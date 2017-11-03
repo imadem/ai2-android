@@ -19,3 +19,5 @@ http://iot.appinventor.mit.edu
 # Interesting links
 
 http://puravidaapps.com/snippets.php
+
+http://appinventor.mit.edu/explore/tutorialsaf4d.html
